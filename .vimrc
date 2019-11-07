@@ -11,4 +11,4 @@ set nobackup
 set nowritebackup
 set noswapfile
 filetype indent on
-hi comment ctermfg=6 #修改注释的字体颜色，以便看得更清楚
+hi comment ctermfg=6 "修改注释的字体颜色，以便看得更清楚
